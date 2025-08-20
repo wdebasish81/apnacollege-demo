@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first Git Repository.<br>
-Author - Debasish Sasmal
+Author - Debasish (Apna College)
